@@ -2,7 +2,7 @@
  * PA5.cpp
  *
  *  Created on: Feb 20, 2018
- *      Author: hjiang2
+ *      Author: Peng
  */
 
 #include <cstdlib>
