@@ -2,7 +2,7 @@
  * Doodlebug.h
  *
  *  Created on: Feb 18, 2018
- *      Author: hjiang2
+ *      Author: Peng
  */
 
 #ifndef DOODLEBUG_H_
