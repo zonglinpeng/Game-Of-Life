@@ -1,7 +1,4 @@
 #PA5
-#
-# Haozhe Jiang
-# hjiang2
 
 CC = g++
 CFLAGS = -Wall --std=c++11
